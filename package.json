@@ -1,0 +1,17 @@
+{
+  "name": "canvas-graph",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": { },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylde/canvas-graph.git"
+  },
+  "author": "Mateusz Kalinowski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tylde/canvas-graph/issues"
+  },
+  "homepage": "https://github.com/tylde/canvas-graph#readme"
+}
